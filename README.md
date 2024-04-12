@@ -1,2 +1,2 @@
 # GOCheck
-## Cross-Platform File Inspection
+## Cross-Platform File Inspection Made Simple
