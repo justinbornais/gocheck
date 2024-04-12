@@ -1,0 +1,38 @@
+PSPath            : Microsoft.PowerShell.Core\FileSystem::C:\Users\justin\Documents\key.txt
+PSParentPath      : Microsoft.PowerShell.Core\FileSystem::C:\Users\justin\Documents
+PSChildName       : key.txt
+PSDrive           : C
+PSProvider        : Microsoft.PowerShell.Core\FileSystem
+Mode              : -a----
+VersionInfo       : File:             C:\Users\justin\Documents\key.txt
+                    InternalName:
+                    OriginalFilename:
+                    FileVersion:
+                    FileDescription:
+                    Product:
+                    ProductVersion:
+                    Debug:            False
+                    Patched:          False
+                    PreRelease:       False
+                    PrivateBuild:     False
+                    SpecialBuild:     False
+                    Language:
+
+BaseName          : key
+Target            : {}
+LinkType          :
+Name              : key.txt
+Length            : 411
+DirectoryName     : C:\Users\justin\Documents
+Directory         : C:\Users\justin\Documents
+IsReadOnly        : False
+Exists            : True
+FullName          : C:\Users\justin\Documents\key.txt
+Extension         : .txt
+CreationTime      : 2024-04-11 2:37:06 PM
+CreationTimeUtc   : 2024-04-11 6:37:06 PM
+LastAccessTime    : 2024-04-12 1:09:42 PM
+LastAccessTimeUtc : 2024-04-12 5:09:42 PM
+LastWriteTime     : 2024-04-11 2:39:37 PM
+LastWriteTimeUtc  : 2024-04-11 6:39:37 PM
+Attributes        : Archive
